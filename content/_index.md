@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
 meta_title: 'KM Authorized LLC'
-description: "IT support"
+description: "Guilt-free IT, hand tech stress to me"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
 intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
