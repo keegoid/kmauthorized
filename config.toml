@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "KM Authorized LLC"
+title = "KM Authorized"
 
 [module]
   [module.hugoVersion]
@@ -14,14 +14,14 @@ title = "KM Authorized LLC"
 
   [params.homepage]
     show_contact_box = false      # show / hide the contaxt box on the homepage
-    show_services_button = false # show / hide the "view all services" button
+    show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo.svg"
-    mobile_height = "36px"
+    mobile = "images/logo/logo-mobile.svg"
+    mobile_height = "39px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "96px"
-    alt = "KM Authorized LLC"
+    desktop_height = "59px"
+    alt = "KM Authorized"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -30,7 +30,7 @@ title = "KM Authorized LLC"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#7be821"
+    primary = "#217BE8"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"

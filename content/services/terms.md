@@ -1,17 +1,10 @@
-+++
-draft = false
-date = 2017-07-06T20:15:19-07:00
-title = "Terms of Service"
-description = "Guilt-free IT"
-slug = ""
-authors = ["Keegan Mullaney"]
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
-
-## What is Guilt-free IT support?
+---
+title: "What is Guilt-free IT?"
+date: 2017-11-18T12:33:46+10:00
+draft: false
+featured: true
+weight: 1
+---
 
 Guilt-free IT support costs $30 per month per computer and provides:
 
@@ -19,7 +12,7 @@ Guilt-free IT support costs $30 per month per computer and provides:
 - Dedicated support when you need it
 - No hourly fees, call as often as needed
 
-Dedicated support is for consulting, questions, computer issues that can be fixed remotely, and scheduled training on a specific task or procedure that can be provided both quickly and remotely. Other work is fixed at $90 per major issue or project (see details below).
+Dedicated support is for consulting, questions, computer issues that can be fixed remotely, and scheduled training on a specific task or procedure that can be provided both quickly and remotely. Other work is fixed at $90 per major issue or project.
 
 A computer issue is defined as a hardware or software malfunction, infection, failure, or bug that impedes or prevents the user's ability to perform everyday tasks like checking email, accessing the Internet, composing/printing/saving a document, etc. Work would need to be performed on the computer to bring it back to a usable state. **Please note:** Not knowing how to perform a specific task on a computer does not constitute a computer issue, as much as it may seem like so. See item 2 below.
 
