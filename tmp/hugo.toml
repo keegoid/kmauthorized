@@ -1,0 +1,37 @@
+title = "KM Authorized LLC"
+theme = "hugo-coder"
+languagecode = "en-us"
+
+[params]
+  author = "KM Authorized LLC"
+  info = "Guilt-free IT"
+  description = "IT support services"
+  keywords = "IT,support"
+
+  dateFormat = "January 2, 2006"
+  commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+  colorScheme = "light"
+  hidecolorschemetoggle = true
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+# Social links
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/keegoid/"
+[[params.social]]
+  name = "X"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://x.com/kmauthorized/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "/page/about/"

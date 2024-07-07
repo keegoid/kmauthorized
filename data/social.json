@@ -1,0 +1,12 @@
+[
+    {
+        "name": "GitHub",
+        "link": "https://github.com/keegoid/kmauthorized",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "X",
+        "link": "https://x.com/kmauthorized",
+        "image": "images/social/twitter.svg"
+    }
+]
