@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "description": "New clients receive an obligation free consultation.",
+    "image": "images/features/free_consultation.webp"
   },
   {
     "title": "Dedicated Support",
-    "description": "Support when you need it in Pacific Time.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "description": "On-call IT support for when you need it (Pacific Time).",
+    "image": "images/features/dedicated_support.webp"
   },
   {
     "title": "No Hourly Fees",
-    "description": "Call, text, or email as often as needed.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "description": "Call, text, or email as often as needed. It is called Guilt-free IT after all.",
+    "image": "images/features/no_hourly_fees.webp"
   }
 ]

@@ -13,7 +13,7 @@ title = "KM Authorized"
   favicon = "favicon-32x32.svg"
 
   [params.homepage]
-    show_contact_box = false      # show / hide the contaxt box on the homepage
+    show_contact_box = true       # show / hide the contaxt box on the homepage
     show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
@@ -67,10 +67,10 @@ title = "KM Authorized"
     url = "/about/"
     weight = 1
 
-#  [[menu.main]]
-#    name = "Contact"
-#    url = "/contact/"
-#    weight = 4
+ [[menu.main]]
+   name = "Contact"
+   url = "/contact/"
+   weight = 4
 
   # Footer Menu
 #  [[menu.footer]]
@@ -78,7 +78,7 @@ title = "KM Authorized"
 #    url = "/"
 #    weight = 1
 
-#  [[menu.footer]]
-#    name = "Contact"
-#    url = "/contact/"
-#    weight = 2
+ [[menu.footer]]
+   name = "Contact"
+   url = "/contact/"
+   weight = 2
