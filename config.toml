@@ -17,7 +17,7 @@ title = "KM Authorized"
     show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo.svg"
     mobile_height = "39px"
     desktop = "images/logo/logo.svg"
     desktop_height = "59px"

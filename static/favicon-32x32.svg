@@ -27,39 +27,25 @@
   <g
      id="layer1"
      transform="translate(0,-993.8598)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;line-height:0%;font-family:'M+2 Nerd Font';-inkscape-font-specification:'M+2 Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
-       x="3.2120111"
-       y="1035.0398"
-       id="text3330"><tspan
-         id="tspan3328"
-         x="3.2120111"
-         y="1035.0398">KM</tspan></text>
+    <path
+       id="path1831"
+       style="fill:#217be8;stroke-width:7.31046"
+       d="m 713.1,1598.7098 a 600,600 0 0 1 -600,600 600,600 0 0 1 -600,-600 600,600 0 0 1 600,-600 600,600 0 0 1 600,600 z" />
+    <path
+       id="circle2559"
+       style="fill:#ffffff;stroke-width:7.31046"
+       d="m 713.1,1638.3966 a 600,600 0 0 1 -600,600 600,600 0 0 1 -600,-600 600,600 0 0 1 600,-600 600,600 0 0 1 600,600 z" />
     <g
-       id="g3336"
+       aria-label="KM"
+       id="text2985-9"
+       style="font-weight:600;font-size:32px;line-height:0%;font-family:'M+2 Nerd Font';-inkscape-font-specification:'M+2 Nerd Font, Semi-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:1.00002"
        transform="translate(3.4000031,4.8500588)">
-      <circle
-         style="fill:#217be8;fill-opacity:1;stroke-width:7.31046"
-         id="path1831"
-         cx="109.7"
-         cy="1593.8597"
-         r="600" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke-width:7.31046"
-         id="circle2559"
-         cx="109.7"
-         cy="1633.5465"
-         r="600" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;line-height:0%;font-family:'M+2 Nerd Font';-inkscape-font-specification:'M+2 Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00002"
-         x="-0.15996899"
-         y="1030.1519"
-         id="text2985-9"><tspan
-           id="tspan3326"
-           x="-0.15996899"
-           y="1030.1519">KM</tspan></text>
+      <path
+         d="m 2.432031,1030.1519 v -23.36 h 4 v 10.144 h 0.064 l 10.176,-10.144 h 4.96 l -11.168,11.168 11.488,12.192 h -4.96 l -10.496,-11.136 h -0.064 v 11.136 z"
+         id="path770" />
+      <path
+         d="m 24.256009,1030.1519 2.88,-23.36 h 4.896 l 4.96,16.032 h 0.064 l 4.992,-16.032 h 4.896 l 2.88,23.36 h -4.064 l -1.664,-17.44 h -0.064 l -4.928,14.88 h -4.128 l -4.928,-14.88 h -0.064 l -1.664,17.44 z"
+         id="path772" />
     </g>
   </g>
 </svg>
